@@ -36,10 +36,10 @@
     background-color: #2f3e51;
     height: calc(100vh - 100px);
     padding: 20px 20px 0 20px;
-    
+    a{text-decoration: none;}
     .group{
       color: $WhiteColor;
-      text-decoration: none;
+      
       margin-bottom: 40px;
       &__group-name{
         font-size: 15px;
